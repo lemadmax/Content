@@ -1,3 +1,3 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:6129d4578608e71c1b5fc6f450e39ded93b65185ae7f5ea381ef4dbfddad02be
-size 49
+FirstPerson/** filter=lfs diff=lfs merge=lfs -text lockable
+FirstPersonCPP/** filter=lfs diff=lfs merge=lfs -text lockable
+Geometry/** filter=lfs diff=lfs merge=lfs -text lockable
